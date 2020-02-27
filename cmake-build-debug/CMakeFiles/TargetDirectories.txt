@@ -1,0 +1,3 @@
+C:/Users/greco/tnv/Clion/PrimoprogettoCLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/greco/tnv/Clion/PrimoprogettoCLion/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/greco/tnv/Clion/PrimoprogettoCLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
